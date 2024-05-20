@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "141554790481",
+    "project_id": "quizer911",
+    "storage_bucket": "quizer911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141554790481:android:fe23bfd8d342c6697cc870",
+        "android_client_info": {
+          "package_name": "com.quizer911.quizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4BmVsn4cO9tkoL55EPCmY_2IWssMmG3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141554790481:android:8a34774f9d56d8327cc870",
+        "android_client_info": {
+          "package_name": "com.quizer911.quizer911"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4BmVsn4cO9tkoL55EPCmY_2IWssMmG3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
